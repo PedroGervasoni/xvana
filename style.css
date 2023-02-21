@@ -1,0 +1,47 @@
+body {
+    background-color: pink;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+;
+
+
+h1 {
+    color: white;
+    font-size: 3em;
+    margin-top: 50px;
+}
+
+;
+
+
+p {
+    color: white;
+    font-size: 1.5em;
+    margin-top: 50px;
+}
+
+;
+
+
+button {
+    font-size: 1.5em;
+    background-color: white;
+    color: pink;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+;
+
+
+button:hover {
+    background-color: pink;
+    color: white;
+}
+
+;

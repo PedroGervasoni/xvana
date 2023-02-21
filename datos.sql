@@ -1,0 +1,7 @@
+CREATE TABLE confirmacion_asistencia (
+  id INT(11) NOT NULL AUTO_INCREMENT,
+  nombre VARCHAR(50) NOT NULL,
+  apellido VARCHAR(50) NOT NULL,
+  fecha_confirmacion TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (id)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
