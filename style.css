@@ -45,3 +45,8 @@ button:hover {
 }
 
 ;
+
+map{
+    display: flex;
+    justify-content: center;
+}
